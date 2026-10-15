@@ -1,14 +1,5 @@
-<!--Dynamic Header Banner -->
 <div align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img 
-      src="https://4kwallpapers.com/images/wallpapers/batman-red-3840x2160-19038.jpg" 
-      width="100%" 
-      height="260" 
-      alt="Batman Banner" 
-      style="object-fit: cover; object-position: center 35%; border-radius: 12px; max-height: 260px;"
-    />
-  </a>
+  <img src="./banner.svg" width="100%" alt="Dipanjan Baidya Banner" />
 </div>
 
 <!-- Brief Intro -->
