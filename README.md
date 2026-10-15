@@ -1,6 +1,14 @@
 <!--Dynamic Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e1b4b,100:06b6d4&height=230&section=header&text=Dipanjan%20Baidya&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=CS%20Undergrad%20%E2%80%A2%20Systems%20%26%20Hardware%20%E2%80%A2%20Developer&descAlignY=58&descSize=18" width="100%" alt="Header Banner" />
+  <a href="https://github.com/YOUR_USERNAME">
+    <img 
+      src="https://4kwallpapers.com/images/wallpapers/batman-red-3840x2160-19038.jpg" 
+      width="100%" 
+      height="260" 
+      alt="Batman Banner" 
+      style="object-fit: cover; object-position: center 35%; border-radius: 12px; max-height: 260px;"
+    />
+  </a>
 </div>
 
 <!-- Brief Intro -->
