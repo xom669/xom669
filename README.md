@@ -12,16 +12,16 @@
     <a href="https://xom669.in" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=06b6d4" alt="Portfolio" />
     </a>
-    <a href="https://linkedin.com/in/YOUR_USERNAME" target="_blank">
+    <a href="https://linkedin.com/in/[YOUR_USERNAME](https://www.linkedin.com/in/dipanjanbaidya)" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=0077B5" alt="LinkedIn" />
     </a>
-    <a href="https://instagram.com/YOUR_USERNAME" target="_blank">
+    <a href="https://instagram.com/xom669" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-0f172a?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram" />
     </a>
-    <a href="https://x.com/YOUR_USERNAME" target="_blank">
+    <a href="https://x.com/xom669" target="_blank">
       <img src="https://img.shields.io/badge/X-0f172a?style=for-the-badge&logo=x&logoColor=ffffff" alt="X" />
     </a>
-    <a href="mailto:YOUR_EMAIL@gmail.com">
+    <a href="mailto:dipanjan@xom669.in">
       <img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" />
     </a>
   </p>
