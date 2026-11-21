@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./banner.svg" width="100%" alt="Dipanjan Baidya Banner" />
+  <img src="./bn1.svg" width="90%" alt="Dipanjan Baidya Banner" />
 </div>
 
 <!-- Brief Intro -->
